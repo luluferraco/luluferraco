@@ -2,9 +2,7 @@
 
 ### hey there! 👋
 
-#### always learning
-#### kindness, and attention to details
-#### awaken dreamer and big time Apple fan
+I'm always learning. really believe in kindness and attention to details. awaken dreamer and big time Apple fan.
 
 it all started as a student of iOS development in the Apple Developer Academy at PUC Rio.
 currently I work as a software engineer @nubank messing around with any code they let me mess around. 🙃
